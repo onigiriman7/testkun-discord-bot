@@ -51,4 +51,4 @@ async def testkun(ctx,*,message=".."):
                 await ctx.send(embed = embed)
 
 server.server()
-bot.run(TOKEN)
+bot.run('ODYwMDIzODc1Nzg1OTgxOTcz.YN1Npg.cq9RIA-RR5kcTheiREav1FzCBbs')
